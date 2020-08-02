@@ -12,11 +12,6 @@
 // #define DISABLE_NDPI
 
 /**
- * Uncomment the line below to disable compiling with libprotoident.
- */
-// #define DISABLE_LPI
-
-/**
  * Error code returned when initializing a disabled library.
  */
 #define ERROR_LIBRARY_DISABLED -0x1000
