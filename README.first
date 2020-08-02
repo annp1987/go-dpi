@@ -1,6 +1,11 @@
 How to install
 ==============
 
+Requirements
+------------
+ - nDPI: https://github.com/ntop/nDPI
+ - pf_ring: (optional) https://github.com/ntop/PF_RING.git
+
 $ go get github.com/annp1987/go-dpi
 $ cd $GOPATH/src/github.com/annp1987/go-dpi
 $ go build ./...
