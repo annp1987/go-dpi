@@ -6,8 +6,8 @@ import (
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
 	"github.com/google/gopacket/pfring"
-	godpi "github.com/mushorg/go-dpi"
-	"github.com/mushorg/go-dpi/types"
+	godpi "github.com/annp1987/go-dpi"
+	"github.com/annp1987/go-dpi/types"
 	"os"
 	"os/signal"
 )

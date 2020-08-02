@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/google/gopacket"
-	"github.com/mushorg/go-dpi/types"
-	"github.com/mushorg/go-dpi/utils"
+	"github.com/annp1987/go-dpi/types"
+	"github.com/annp1987/go-dpi/utils"
 	"unsafe"
 )
 

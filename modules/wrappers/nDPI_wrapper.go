@@ -9,7 +9,7 @@ import (
 	"unsafe"
 
 	"github.com/google/gopacket"
-	"github.com/mushorg/go-dpi/types"
+	"github.com/annp1987/go-dpi/types"
 	"github.com/pkg/errors"
 )
 

@@ -3,7 +3,7 @@ package ml
 
 import (
 	"github.com/google/gopacket/layers"
-	"github.com/mushorg/go-dpi/types"
+	"github.com/annp1987/go-dpi/types"
 	"github.com/pkg/errors"
 	"io"
 	"io/ioutil"

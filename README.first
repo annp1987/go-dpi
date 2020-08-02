@@ -1,0 +1,7 @@
+How to install
+==============
+
+$ go get github.com/annp1987/go-dpi
+$ cd $GOPATH/src/github.com/annp1987/go-dpi
+$ go build ./...
+$ go install .

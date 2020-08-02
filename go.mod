@@ -1,4 +1,4 @@
-module github.com/mushorg/go-dpi
+module github.com/annp1987/go-dpi
 
 go 1.14
 

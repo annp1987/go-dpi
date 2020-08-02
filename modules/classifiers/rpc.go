@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
-	"github.com/mushorg/go-dpi/types"
+	"github.com/annp1987/go-dpi/types"
 )
 
 // RPCClassifier struct

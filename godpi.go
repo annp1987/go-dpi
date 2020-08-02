@@ -3,10 +3,10 @@ package godpi
 
 import (
 	"github.com/google/gopacket"
-	"github.com/mushorg/go-dpi/modules/classifiers"
-	"github.com/mushorg/go-dpi/modules/ml"
-	"github.com/mushorg/go-dpi/modules/wrappers"
-	"github.com/mushorg/go-dpi/types"
+	"github.com/annp1987/go-dpi/modules/classifiers"
+	"github.com/annp1987/go-dpi/modules/ml"
+	"github.com/annp1987/go-dpi/modules/wrappers"
+	"github.com/annp1987/go-dpi/types"
 	"time"
 )
 
